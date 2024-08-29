@@ -1,0 +1,5 @@
+html, body {
+    margin: 0;
+    background: linear-gradient(#3B93D9, #000);
+    overflow: hidden;
+}
